@@ -1,2 +1,2 @@
-# Google-Ana-Sayfas-
+# Google-Ana-Sayfasi
 Kodluyoruz Google Ana Sayfasını Tasarlamak
